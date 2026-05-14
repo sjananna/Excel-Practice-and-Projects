@@ -22,5 +22,3 @@ This Excel assignment analyzes cat and dog adoption-related expenses using formu
 - Visual chart representation
 - Structured financial estimation
 
-## Excel File
-[Download Excel Assignment](Adoption Problem Solving Assignment.xlsx)

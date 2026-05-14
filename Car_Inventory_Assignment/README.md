@@ -54,7 +54,3 @@ The assignment focuses on organizing automotive inventory information while eval
 - Conditional calculations
 - Data categorization
 
----
-
-# Excel File
-[Download Excel Assignment](Car_Inventory_Assignment.xlsx)
