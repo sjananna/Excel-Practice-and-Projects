@@ -18,8 +18,7 @@ The assignment focuses on financial analysis techniques and loan repayment calcu
 
 ## Project Preview
 
-![Simple Interest Preview](Screenshots/Intrest
-.png)
+![Simple Interest Preview](Screenshots/Intrest.png)
 
 ---
 
